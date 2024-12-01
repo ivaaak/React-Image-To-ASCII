@@ -8,7 +8,14 @@ npm run dev
 ```
 
 **Screenshots:**
-<img src="https://raw.githubusercontent.com/ivaaak/Parametric-Surfaces/main/screenshots/1.png"></img>
+<img src="https://raw.githubusercontent.com/ivaaak/React-Image-To-ASCII/main/screenshots/1.png"></img>
+<img src="https://raw.githubusercontent.com/ivaaak/React-Image-To-ASCII/main/screenshots/2.png"></img>
+<img src="https://raw.githubusercontent.com/ivaaak/React-Image-To-ASCII/main/screenshots/3.png"></img>
+<img src="https://raw.githubusercontent.com/ivaaak/React-Image-To-ASCII/main/screenshots/4.png"></img>
+<img src="https://raw.githubusercontent.com/ivaaak/React-Image-To-ASCII/main/screenshots/w1.png"></img>
+<img src="https://raw.githubusercontent.com/ivaaak/React-Image-To-ASCII/main/screenshots/w2.png"></img>
+<img src="https://raw.githubusercontent.com/ivaaak/React-Image-To-ASCII/main/screenshots/w3.png"></img>
+
 
 **How it works:**
 
