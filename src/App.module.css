@@ -1,0 +1,47 @@
+.container {
+  max-width: 90rem;
+  margin: 0 auto;
+  padding: 1rem;
+  background-color: white;
+}
+
+.fileInput {
+  margin-bottom: 1rem;
+  color: black;
+}
+
+.hiddenCanvas {
+  display: none;
+}
+
+.contentWrapper {
+  display: flex;
+  gap: 2rem;
+  align-items: flex-start;
+  justify-content: center;
+}
+
+.imageContainer {
+  margin-top: 10px;
+  flex: 1;
+  max-width: 100%;
+}
+
+.uploadedImage {
+  width: 40vw;
+  height: auto;
+  border-radius: 0.25rem;
+}
+
+.asciiOutput {
+  flex: 1;
+  font-family: monospace;
+  font-size: 0.75rem;
+  line-height: 1;
+  white-space: pre;
+  background-color: white;
+  color: black;
+  padding: 0;
+  margin: 0;
+  max-width: 50vw;
+}
